@@ -32,7 +32,7 @@ def unit_testing(directory, file_exp):
 
 #Base directory for unit tests
 path = 'C:/Users/PC/PycharmProjects/gbm_ejercicio1'
-#Se especifica el tipo de archivo que buscamos como prueba
+#Specify the document path expression
 file_exp = '/unit_test_*.txt'
 
 #Example one to run without unit tests
